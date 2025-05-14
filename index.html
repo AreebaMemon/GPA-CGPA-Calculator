@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Metszab GPA/CGPA Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Metszab GPA/CGPA Calculator</h1>
+            <p class="subtitle">Calculate your semester GPA and overall CGPA</p>
+        </header>
+
+        <main>
+            <div class="semesters-container">
+                <div class="semester-card" id="semester-1">
+                    <div class="semester-header">
+                        <h2>Semester 1</h2>
+                        <button class="btn-add-subject" onclick="addSubject(1)">+ Add Subject</button>
+                    </div>
+                    <div class="subjects-list">
+                       
+                    </div>
+                    <div class="semester-footer">
+                        <button class="btn-calculate" onclick="calculateSemesterGPA(1)">Calculate GPA</button>
+                        <div class="semester-gpa">GPA: --</div>
+                    </div>
+                </div>
+            </div>
+            <div class="controls">
+                <button class="btn-primary" onclick="addSemester()">+ Add New Semester</button>
+                <button class="btn-primary" onclick="calculateCGPA()">Calculate CGPA</button>
+                <button class="btn-secondary" onclick="resetCalculator()">Reset All</button>
+            </div>
+
+            <div class="results">
+                <div class="cgpa-display">
+                    <h2>Overall CGPA</h2>
+                    <div class="cgpa-value">--</div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Enter your subjects, credit hours, and grades to calculate GPA/CGPA</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
