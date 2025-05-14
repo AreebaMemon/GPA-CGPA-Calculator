@@ -30,4 +30,4 @@ styles.css # CSS styles <br>
 script.js # JavaScript functionali <br>
 screenshot.png # Project screenshot <br>
 
-Project Link: [https://github.com/your-username/gpa-calculator](https://github.com/your-username/gpa-calculator)
+Project Link: [https://github.com/your-username/gpa-calculator](https://areebamemon.github.io/gpa-cgpa-calculator/)
