@@ -27,6 +27,8 @@ A modern, responsive GPA and CGPA calculator web application for students to tra
 3. Click "Calculate CGPA" to see your cumulative GPA
 
 ## File Structure
+
+gpa-calculator/
 ├── index.html # Main HTML file
 ├── styles.css # CSS styles
 ├── script.js # JavaScript functionality
