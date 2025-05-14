@@ -1,6 +1,6 @@
 # GPA/CGPA Calculator
 
-![Project Screenshot](/screenshot.png) <!-- Add your screenshot here -->
+![Project Screenshot](result.png) 
 
 A modern, responsive GPA and CGPA calculator web application for students to track their academic performance across multiple semesters.
 
