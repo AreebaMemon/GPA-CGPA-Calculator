@@ -28,6 +28,6 @@ A modern, responsive GPA and CGPA calculator web application for students to tra
 index.html # Main HTML file <br>
 styles.css # CSS styles <br>
 script.js # JavaScript functionali <br>
-screenshot.png # Project screenshot <br>
+result.png # Project screenshot <br>
 
 Project Link: [https://github.com/your-username/gpa-calculator](https://areebamemon.github.io/gpa-cgpa-calculator/)
