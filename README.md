@@ -1,11 +1,10 @@
-# GPA/CGPA Calculator
+# GPA / CGPA Calculator 🎓
 
 ![Project Screenshot](result.png) 
 
 A modern, responsive GPA and CGPA calculator web application for students to track their academic performance across multiple semesters.
 
 ## Features
-
 - 📊 Calculate both GPA (per semester) and CGPA (cumulative)
 - ➕ Add/remove semesters dynamically
 - 📝 Add/remove subjects with credit hours and grades
@@ -18,7 +17,6 @@ A modern, responsive GPA and CGPA calculator web application for students to tra
 - **Responsive Design**: Mobile-first approach
 
 ## Usage
-
 1. Add semesters using the "+ Add New Semester" button
 2. For each semester:
    - Add subjects with the "+ Add Subject" button
